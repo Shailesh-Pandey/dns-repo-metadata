@@ -6,7 +6,7 @@ clone the phac-dn and acm-core repo.
   -phac-dns-main
   -acm-core-main
   -fetch_dns_metadata.py
-
-  python fetch_dns_metadata.py
-
-  #results are exported as CSV file.
+```
+python fetch_dns_metadata.py
+```
+#results are exported as CSV file.
